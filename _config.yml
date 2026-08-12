@@ -1,3 +1,56 @@
-theme: jekyll-theme-minimal
-title: Valenzuela's homepage
-description: BSIT 4-3
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ahl's Homepage</title>
+
+    <style>
+        body {
+            margin: 0;
+            padding: 25px 10px;
+            font-family: Arial, sans-serif;
+            background-color: #f7f7f7;
+        }
+
+        .container {
+            max-width: 900px;
+            margin: auto;
+        }
+
+        .title {
+            border: 2px solid #333;
+            background-color: white;
+            text-align: center;
+            padding: 18px;
+            margin-bottom: 25px;
+            font-size: 28px;
+            font-weight: bold;
+        }
+
+        .subtitle {
+            border: 1px solid #555;
+            background-color: white;
+            text-align: center;
+            padding: 14px;
+            font-size: 16px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="container">
+
+        <div class="title">
+            Ahl's Homepage
+        </div>
+
+        <div class="subtitle">
+            BSIT 4-3
+        </div>
+
+    </div>
+
+</body>
+</html>
